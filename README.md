@@ -1,4 +1,4 @@
-### Hi there 👋
+### I'm [Rob Sturcke](https://robsturcke.dev) a software engineer, published fine artist, formerly a UIX engineer @Apple and I build awesome stuff!
 
 <!--
 **robSturcke/robSturcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
