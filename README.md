@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on React Native and RemixJS
-- - 🌱 I’m currently learning MIT Materials Science
+- 🌱 I’m currently learning MIT Materials Science
