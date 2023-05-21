@@ -1,4 +1,4 @@
-### I'm [Rob Sturcke](https://robsturcke.dev) a software engineer, published artist, former engineer @Apple and I build awesome stuff!
+### I'm [Rob Sturcke](https://robsturcke.dev) a software engineer, published artist, former engineer @Apple currently @EB and I build awesome stuff!
 
 
 <!-- [![Robs's GitHub stats](https://github-readme-stats.vercel.app/api?username=robSturcke&show_icons=true&layout=compact&theme=dracula)](https://github.com/robSturcke) -->
