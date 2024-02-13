@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Prisma APIs and React Native projects
+- 🔭 I’m currently working on React Native and Swift projects
 ### My stack 👾
 
 |              TypeScript            |          React                |           React Native         |         Swift             |         GPT Automations             |
