@@ -20,6 +20,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on React Native and Swift projects
 ### My stack 👾
 
-|              TypeScript            |          React                |           React Native         |         Swift             |         GPT Automations             |
-|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
+|              TypeScript            |          React                |           React Native         |         Swift             |
+|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/120px-React-icon.svg.png?20220125121207"> | <img src="https://pbs.twimg.com/profile_images/763061332702736385/KoK6gHzp_400x400.jpg" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" width="100px"> |
