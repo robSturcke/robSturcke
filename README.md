@@ -1,24 +1,54 @@
-### I'm [Rob Sturcke](https://robsturcke.dev) a software engineer, published artist, former engineer @Apple currently @Britannica and I build awesome stuff!
+# Rob Sturcke
 
+**Senior Full Stack & AI Automation Engineer**  
+Former Apple Engineer • Currently at Britannica • Founder of IonicCactus
 
-<!-- [![Robs's GitHub stats](https://github-readme-stats.vercel.app/api?username=robSturcke&show_icons=true&layout=compact&theme=dracula)](https://github.com/robSturcke) -->
+---
 
-<!--
-**robSturcke/robSturcke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+Coding since I was 11. Nearly 30 years of building real software end-to-end, mostly solo.  
+Former Apple engineer, currently at Britannica, and founder of [IonicCactus](https://ioniccactus.com) where I'm building practical SaaS platforms and automation tools.
 
-- 🔭 I’m currently working on React Native and RemixJS
-- 🌱 I’m currently learning MIT Material Sciences
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-- 🔭 I’m currently working on full-stack automation projects
-### My stack 👾
+I focus on clean architecture, reliable systems, and delivering full-stack solutions quickly. Strong across web, mobile, backend, and automation.
 
-|              TypeScript            |          React Native                |           Python        |         Swift             |
-|:--------------------------:|:--------------------------:|:--------------------------:|:--------------------------:|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/120px-React-icon.svg.png?20220125121207"> | <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="100px"> | <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Swift_logo.svg" width="100px"> |
+## Tech Stack
+
+**Languages**  
+TypeScript, Python, Swift, Lua, Go
+
+**Frontend & Cross-Platform**  
+React, React Native (Web + Native), Next.js, SCSS, Tailwind
+
+**Backend & Data**  
+Supabase (Postgres, Auth, Edge Functions, Realtime), Node.js
+
+**Infrastructure & DevOps**  
+Kubernetes, DigitalOcean, Linux (Ubuntu/Debian server admin & scripting), Raspberry Pi, self-hosted services, CI/CD basics
+
+**Focus Areas**  
+Full-stack automation pipelines, AI-assisted workflows, rapid prototyping to production, cross-platform mobile/web apps, robust backend systems
+
+## Experience
+
+- **Britannica** — Senior Full Stack & Automation Engineer (current)
+- **Apple** — Software Engineer (former)
+- **IonicCactus** — Founder (building production SaaS and automation products)
+
+## What I'm Shipping
+
+- Production SaaS platforms and automation tools
+- Cross-platform React Native applications with web parity
+- Robust backend systems and APIs
+- Infrastructure and deployment pipelines for reliable, scalable systems
+- Automation and AI tooling that removes manual work
+
+## Builder Mindset
+
+Most of my career has been independent building with high ownership and low overhead. I rewrite legacy systems in days when others plan for months and can take a feature from prototype to production end-to-end.
+
+I move fast and focus on getting real software shipped.
+
+---
+
+*Website: [robsturcke.dev](https://robsturcke.dev) • GitHub: [robSturcke](https://github.com/robSturcke)*
