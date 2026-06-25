@@ -21,7 +21,7 @@ TypeScript, Python, Swift, Lua, Go
 React, React Native (Web + Native), Next.js, SCSS, Tailwind
 
 **Backend & Data**  
-Supabase (Postgres, Auth, Edge Functions, Realtime), Node.js
+Supabase (Postgres, Auth, Edge Functions, Realtime), Node.js, Python, Go, Ruby
 
 **Infrastructure & DevOps**  
 Kubernetes, DigitalOcean, Linux (Ubuntu/Debian server admin & scripting), Raspberry Pi, self-hosted services, CI/CD basics
