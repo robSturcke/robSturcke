@@ -33,7 +33,6 @@ Full-stack automation pipelines, AI-assisted workflows, rapid prototyping to pro
 
 - **Britannica** — Senior Full Stack & Automation Engineer (current)
 - **Apple** — Software Engineer (former)
-- **IonicCactus** — Founder (building production SaaS and automation products)
 
 ## What I'm Shipping
 
