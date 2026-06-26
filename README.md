@@ -8,7 +8,7 @@ Former Apple Engineer • Currently at Britannica • Founder of IonicCactus
 ## About
 
 Coding since I was 11. Nearly 30 years of building real software end-to-end, mostly solo.  
-Former Apple engineer, currently at Britannica, and founder of [IonicCactus](https://ioniccactus.com) where I'm building practical SaaS platforms and automation tools.
+Former Apple engineer, currently at Britannica, where I'm building practical SaaS platforms and automation tools.
 
 I focus on clean architecture, reliable systems, and delivering full-stack solutions quickly. Strong across web, mobile, backend, and automation.
 
