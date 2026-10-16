@@ -1,8 +1,5 @@
 # Rob Sturcke
 
-**Senior Full Stack & AI Automation Engineer**  
-Former Apple Engineer • Currently at Britannica • Founder of IonicCactus
-
 ---
 
 ## About
