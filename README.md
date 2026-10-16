@@ -26,10 +26,6 @@ Kubernetes, DigitalOcean, Linux (Ubuntu/Debian server admin & scripting), Raspbe
 **Focus Areas**  
 Full-stack automation pipelines, AI-assisted workflows, rapid prototyping to production, cross-platform mobile/web apps, robust backend systems
 
-## Experience
-
-- **Britannica** — Senior Full Stack & Automation Engineer (current)
-- **Apple** — Software Engineer (former)
 
 ## What I'm Shipping
 
