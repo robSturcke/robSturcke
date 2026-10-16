@@ -40,7 +40,3 @@ Full-stack automation pipelines, AI-assisted workflows, rapid prototyping to pro
 Most of my career has been independent building with high ownership and low overhead. I rewrite legacy systems in days when others plan for months and can take a feature from prototype to production end-to-end.
 
 I move fast and focus on getting real software shipped.
-
----
-
-*Website: [robsturcke.dev](https://robsturcke.dev) • GitHub: [robSturcke](https://github.com/robSturcke)*
