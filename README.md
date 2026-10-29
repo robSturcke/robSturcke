@@ -5,7 +5,7 @@
 ## About
 
 Coding since I was 11. Nearly 30 years of building real software end-to-end, mostly solo.  
-Former Apple engineer, currently at Britannica, where I'm building practical SaaS platforms and automation tools.
+Former Apple engineer, Britannica, currently at Ionic Cactus where I'm building practical SaaS platforms and automation tools.
 
 I focus on clean architecture, reliable systems, and delivering full-stack solutions quickly. Strong across web, mobile, backend, and automation.
 
@@ -18,7 +18,7 @@ TypeScript, Python, Swift, Lua, Go
 React, React Native (Web + Native), Next.js, SCSS, Tailwind
 
 **Backend & Data**  
-Supabase (Postgres, Auth, Edge Functions, Realtime), Node.js, Python, Go, Ruby
+Supabase (Postgres, Auth, Edge Functions, Realtime), Node.js, Python, Go, Ruby, Rust
 
 **Infrastructure & DevOps**  
 Kubernetes, DigitalOcean, Linux (Ubuntu/Debian server admin & scripting), Raspberry Pi, self-hosted services, CI/CD basics
