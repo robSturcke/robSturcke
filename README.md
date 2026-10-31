@@ -5,7 +5,7 @@
 ## About
 
 Coding since I was 11. Nearly 30 years of building real software end-to-end, mostly solo.  
-Former Apple engineer, Britannica, currently at Ionic Cactus where I'm building practical SaaS platforms and automation tools.
+Former Apple engineer, Britannica, currently at [Ionic Cactus](https://ioniccactus.com) where I'm building practical SaaS platforms and automation tools.
 
 I focus on clean architecture, reliable systems, and delivering full-stack solutions quickly. Strong across web, mobile, backend, and automation.
 
