@@ -17,7 +17,7 @@ I'm looking for a remote Product Engineer or Software Engineer role where a smal
 ## Stack
 
 **Day to day**
-TypeScript, React, Next.js, React Native, Node.js, PostgreSQL, Python
+TypeScript, React, Next.js, React Native, Node.js, PostgreSQL, Python, Swift, Kotlin
 
 **Around the product**
 Supabase, Stripe, Cloudflare Workers
